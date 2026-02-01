@@ -4,6 +4,7 @@
 
 function countSheeps(sheep) {
   // TODO
+  let 
 }
 
 console.log(countSheeps([])) //0
