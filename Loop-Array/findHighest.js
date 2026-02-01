@@ -4,6 +4,7 @@
 
 function findHighestInt(arr) {
   //your code here
+  let halo = 0;
   
 }
 
